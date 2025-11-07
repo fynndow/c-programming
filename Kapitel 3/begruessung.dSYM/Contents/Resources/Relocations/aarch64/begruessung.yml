@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fynn/Desktop/C Projekte/Kapitel 3/begruessung'
+relocations:     []
+...
