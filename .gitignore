@@ -4,4 +4,4 @@
 *.exe
 char.dSYM/
 char
-*.dSYM/
+*.dSYM/.DS_Store
