@@ -1,6 +1,8 @@
 # c-programming
 learning c <br>
 
+Kapitel 1: Einführung
+Kapitel 2: Einführung
 Kapitel 3: Hello World <br>
 Kapitel 4: Variablen und Operatoren <br>
 Kapitel 5: Zusammengesetzte Datentypen <br>
